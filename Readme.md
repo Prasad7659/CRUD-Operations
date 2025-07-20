@@ -1,8 +1,20 @@
-CRUD Operations
+# 💻 Java JDBC CRUD Operations with MySQL
 
-    In this Exercise i tried to connect mysql database using Java Database Connectivity and Performed CRUD Operations
-    1. Fetching All Users from User Table
-    2. Inserting a new User into User Table
-    3. Updating a User in User Table
-    4. Deleting a User from User Table
-    5. Fetching a User by Id from User Table
+This project demonstrates how to perform basic **CRUD (Create, Read, Update, Delete)** operations using **Java Database Connectivity (JDBC)** with a **MySQL** database.
+
+## 📚 Description
+
+Using JDBC, this Java application connects to a MySQL database and performs the following operations on a `User` table:
+
+1. 📋 Fetch all users
+2. ➕ Insert a new user
+3. ✏️ Update an existing user
+4. ❌ Delete a user
+5. 🔍 Fetch a user by ID
+
+## 🧰 Technologies Used
+
+- ☕ Java (JDK 8+)
+- 🗃️ MySQL
+- 🔌 JDBC API
+- 🛠️ MySQL Connector/J (JDBC driver)
